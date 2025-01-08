@@ -71,7 +71,7 @@ public class HospitalManagementSystem {
     // ArrayList to store patients and doctors in list
     private static ArrayList<Patient> patients = new ArrayList<>();
     private static ArrayList<Doctor> doctors = new ArrayList<>();
-	private static String a;
+	
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
